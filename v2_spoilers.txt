@@ -1,0 +1,7 @@
+Version = 2.0 spoilers
+
+Mechanism to show notifications only when a value changes
+
+Show changed scores (ex 4 runs scored bu team 1)
+
+If wished any changes or new feaatures, pls pull requestos or raise issues
