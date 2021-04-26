@@ -6,7 +6,7 @@ setup(
     packages=['win10toast', 'requests', 'bs4', 'time'],
     url='',
     license='',
-    author='dnsam',
+    author='SamtheGOC',
     author_email='dnsam550@gmail.com',
     description='Cricket Live Scores v1'
 )
