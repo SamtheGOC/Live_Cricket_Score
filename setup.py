@@ -8,5 +8,5 @@ setup(
     license='',
     author='dnsam',
     author_email='dnsam550@gmail.com',
-    description='Python Live Scores v1'
+    description='Cricket Live Scores v1'
 )
