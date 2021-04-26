@@ -1,0 +1,5 @@
+requests~=2.25.1
+win10toast~=0.9
+bs4~=0.0.1
+beautifulsoup4~=4.9.3
+setuptools~=49.2.1
